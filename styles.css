@@ -2,6 +2,7 @@
    			background-color:#6B728E;
    		}
    		hr  {
+   			text-align: center;
 			   border-style: none;
 			   border-top-style: dotted;
 			   border-color: grey;
@@ -20,8 +21,8 @@
             text-decoration-color: black;
             }
             img {
-            height:150px;
-			width:150px;
+            height:175px;
+			width:175px;
 			}
 			p  {
 				font-family: cursive;
@@ -32,4 +33,8 @@
 			table  {
 				font-family: cursive;
 			}
+			/***************************************************Class selector******************************************/
+			.circle{
+			border-radius: 100%;
+}
 			
